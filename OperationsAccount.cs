@@ -19,7 +19,7 @@ namespace OperationsAccount{
             "* for adding money enter (1).\n"+
             "\n* for withdraw money enter (2).\n"+
             "\n* for show balance enter (3).\n"+ 
-            "\n=================================================================================\n"+
+            "\n===============================================================================\n"+
             "Chose the operation : "); int op = int.Parse(ReadLine());
 
             switch (op)
@@ -30,7 +30,7 @@ namespace OperationsAccount{
                 default:  break;
             }
 
-            WriteLine("=================================================================================\n");
+            WriteLine("===============================================================================\n");
             
         }
     }
