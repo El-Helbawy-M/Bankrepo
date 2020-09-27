@@ -1,0 +1,13 @@
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.exe
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.deps.json
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.runtimeconfig.json
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.runtimeconfig.dev.json
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.dll
+G:\C#\Projects\Bank System\bin\Debug\netcoreapp3.1\Bank System.pdb
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.csprojAssemblyReference.cache
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.AssemblyInfoInputs.cache
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.AssemblyInfo.cs
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.csproj.CoreCompileInputs.cache
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.dll
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.pdb
+G:\C#\Projects\Bank System\obj\Debug\netcoreapp3.1\Bank System.genruntimeconfig.cache
