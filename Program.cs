@@ -15,7 +15,7 @@ namespace Bank_System
             "\n* for creating new account enter (1) .\n"+
             "\n* for operations on your account enter (2) .\n"+
             "\n* for making new VISA enter (3) .\n"+
-            "\n* for Bank Loan enter (4) .\n" + "\n=================================================================================\n"+"Chose your operation : "
+            "\n* for Bank Loan enter (4) .\n" + "\n=================================================================================\n"+"Chose your operati: "
             );
             int op = int.Parse(ReadLine());
             switch (op)
